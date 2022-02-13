@@ -8,4 +8,6 @@ Furthemore, I like everything related with database managment and Cibersecurity 
 
 Right now, I am experimenting with Pygame 🧪🎮
 
+I use <a href= "https://gitmoji.dev"> gitmoji</a> in my commits  ⚡️
+
 Oh yeah! I almost forgot, my name literally means María Celtic-fort Above. I don´t blame you if you are laughing, I also do. 🤷‍♀️
