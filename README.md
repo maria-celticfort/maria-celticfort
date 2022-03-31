@@ -4,7 +4,7 @@ I´m a Web Apps Development student based in Galicia ☂️
 
 I love coding, even more if I have to use Python or PHP ❤️👩‍💻
 
-Furthemore, I like everything related with database managment and Cibersecurity 🖥️🔒
+Furthemore, I like everything related with database managment and Cybersecurity 🖥️🔒
 
 Right now, I am experimenting with Pygame 🧪🎮
 
