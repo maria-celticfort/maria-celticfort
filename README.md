@@ -6,7 +6,7 @@ I love coding, even more if I have to use Python or PHP ❤️👩‍💻
 
 Furthemore, I like everything related with database managment and Cybersecurity 🖥️🔒
 
-Right now, I am experimenting with Pygame 🧪🎮
+Right now, I am coding my Web Apps Development final project with PHP + HTML + CSS 👩🎓
 
 I use <a href= "https://gitmoji.dev"> gitmoji</a> in my commits  ⚡️
 
