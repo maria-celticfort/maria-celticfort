@@ -1,12 +1,12 @@
 Hi! I’m María 👋
 
-I´m a Web Apps Development student based in Galicia ☂️ 
+I´m a Web Apps Developer based in Galicia ☂️ 
 
-I love coding, even more if I have to use Python or PHP ❤️👩‍💻
+I love coding, even more if I have to use PHP or Python ❤️👩‍💻
 
 Furthemore, I like everything related with database managment and Cybersecurity 🖥️🔒
 
-Right now, I am ~~messing around with Laravel~~ coding my Web Apps Development final project with Laravel 👩🎓
+Right now, I am ~~messing around with Laravel~~ coding with Laravel 👩👩‍💻
 
 I use <a href= "https://gitmoji.dev"> gitmoji</a> in my commits  ⚡️
 
