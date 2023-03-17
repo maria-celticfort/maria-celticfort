@@ -4,9 +4,9 @@ I´m a Web Apps Developer based in Galicia ☂️
 
 I love coding, even more if I have to use PHP or Python ❤️👩‍💻
 
-Furthemore, I like everything related with database managment and Cybersecurity 🖥️🔒
+Furthemore, I like everything related with Cybersecurity 🖥️🔒
 
-Right now, I am ~~messing around with Laravel~~ coding with Laravel 👩👩‍💻
+Right now, I am ~~messing around with Laravel~~ coding with Node.js 👩👩‍💻
 
 I use <a href= "https://gitmoji.dev"> gitmoji</a> in my commits  ⚡️
 
